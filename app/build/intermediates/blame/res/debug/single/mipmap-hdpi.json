@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\truck.png",
+        "source": "D:\\Programming\\Android\\Truck\\app\\src\\main\\res\\mipmap-hdpi\\truck.png"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Programming\\Android\\Truck\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\Programming\\Android\\Truck\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nejimon.ravindran\\AndroidStudioProjects\\Sensors\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\nejimon.ravindran\\AndroidStudioProjects\\Sensors\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nejimon.ravindran\\AndroidStudioProjects\\Sensors\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\nejimon.ravindran\\AndroidStudioProjects\\Sensors\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

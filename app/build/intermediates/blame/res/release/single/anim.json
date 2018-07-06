@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Truck\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\7a5ce4bcf32270576a47d3659f50841650a1f54f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
